@@ -1,0 +1,24 @@
+fqn:objComp.util.Second
+type=int, var=IntValue, value=44
+type=double, var=DoubleValue, value=42.1
+fqn:objComp.util.Second
+type=int, var=IntValue, value=44
+type=double, var=DoubleValue, value=42.1
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=16.93
+type=int, var=IntValue, value=56
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=16.93
+type=int, var=IntValue, value=56
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=18.26
+type=int, var=IntValue, value=25
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=49.0
+type=int, var=IntValue, value=84
+fqn:objComp.util.Second
+type=int, var=IntValue, value=84
+type=double, var=DoubleValue, value=49.0
+fqn:objComp.util.Second
+type=double, var=DoubleValue, value=44.38
+type=int, var=IntValue, value=17
